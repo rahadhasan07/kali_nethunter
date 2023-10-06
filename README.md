@@ -1,6 +1,8 @@
 # kali_nethunter
 
-<img alt="coding" src="https://github.com/rahadhasan07/kali_nethunter/blob/main/Kali%20Linux.jpg">- $apt update
+<img alt="coding" src="https://github.com/rahadhasan07/kali_nethunter/blob/main/Kali%20Linux.jpg">
+<h1>Installation Command</h1>
+
 - $apt upgrade
 - $apt install git
 - $apt install wget
